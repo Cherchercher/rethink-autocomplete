@@ -2,7 +2,7 @@
 
 https://drive.google.com/file/d/1t-h0blhJePqqwrOg7O5L3AV84yFnSRBv/view?usp=sharing
 
-Due to time constraint, I've [react-search-ui]"https://www.npmjs.com/package/@elastic/react-search-ui", a powerful search engine powered by lucene, with an intuitive front-end. react-search-ui has a lot of additional features such as fitering and sorting. To keep the code size small, I've stripped away a lot of the additional features.
+Due to time constraint, I've [react-search-ui](https://www.npmjs.com/package/@elastic/react-search-ui), a powerful search engine powered by lucene, with an intuitive front-end. react-search-ui has a lot of additional features such as fitering and sorting. To keep the code size small, I've stripped away a lot of the additional features.
 
 In my initial write-ups i suggested using MySQL for storing the NGram similarity. After some study I realized that it is not very effective in storing big matrix. Using an infrastructure such as Hadoop with HBase might be a better choice.
 
@@ -17,7 +17,8 @@ In my initial write-ups i suggested using MySQL for storing the NGram similarity
 Must have:
 
 - Suggestion on each character - done
-- Search in both titles and description text
+- Search in both titles and description text - done
+- Test Coverage - not started
 
 Nice to have:
 
