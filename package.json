@@ -1,0 +1,19 @@
+{
+  "name": "elastic-search-autocomplete",
+  "version": "0.1.0",
+  "description": "",
+  "main": "_app.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "",
+  "dependencies": {
+    "@elastic/react-search-ui": "^1.5.0",
+    "@elastic/search-ui-app-search-connector": "^1.5.0",
+    "lodash": "^4.17.20",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.30.0"
+  }
+}
