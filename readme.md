@@ -28,7 +28,7 @@ Not in scope:
 
 - add or update database
 
-# run locally
+# Running locally
 
 - FORK this repo
 - `cd backend`
